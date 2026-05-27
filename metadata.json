@@ -1,0 +1,6 @@
+{
+  "name": "水印相机",
+  "description": "专业高颜值水印相机，支持实时预览、自动生成日期/经纬度/地理位置、并附带自定义自定义文本水印，成果一键保存到系统相册。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
